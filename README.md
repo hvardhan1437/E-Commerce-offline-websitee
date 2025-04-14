@@ -1,2 +1,2 @@
 # E-Commerce-offline-websitee
-Static ecommerce website UI built with HTML, CSS, and JavaScript. No backend — just clean, responsive design.
+A static, fully offline ecommerce UI built using HTML, CSS, and JavaScript. Includes homepage, product listings, blogs, about, and contact sections with custom styling and responsive layouts. Ideal for design demos, UI practice, or frontend prototyping.
